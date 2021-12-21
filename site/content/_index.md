@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Next Steps to your medical career"
+subtitle: Expert guidance to your medical career choices
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
